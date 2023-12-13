@@ -1,0 +1,14 @@
+.{
+    .name = "minecraft-printer",
+    .version = "0.0.0",
+    .dependencies = .{
+        .ziggaratt = .{
+            .url = "https://github.com/Beyley/Coverett/archive/f95c7f9e595c0427c5d0c6dc32c28634f738bc79.tar.gz",
+            .hash = "1220d8bf6cf6673a71438f69ffae72c66f823f3c5319b8dadabc9ec6c47fad9f3a91",
+        },
+    },
+
+    .paths = .{
+        "",
+    },
+}
